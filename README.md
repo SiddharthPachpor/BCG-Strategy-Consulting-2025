@@ -1,5 +1,5 @@
 # BCG-Strategy-Consulting-2025
-CASE : The Telecom Case and teh Leasing Business model exploration
+CASE : The Telecom Case and the Leasing Business Model exploration scenario.
 
 Task :-
 
