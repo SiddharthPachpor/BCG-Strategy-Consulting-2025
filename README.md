@@ -16,3 +16,10 @@ Framework Used :-
 I moved forward by introducing some General Financial KPIs to the team. 
 ![image](https://github.com/user-attachments/assets/5f6eddfb-56e6-4628-a6d9-bed8106f2d2c)
 
+# Need analysis and Requirement analysis
+
+Brainstorm and shortlist criteria that customers may use to evaluate competing offers. 
+Task outcome  => data points that would help us decide if the new offer is attractive to consumers? 
+              => evaluation and identification of the target segment for this plan.  
+
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/31fd2450-4106-4c9c-967c-d84e8558ce22" /> <img width="474" alt="image" src="https://github.com/user-attachments/assets/4cb4274b-e497-4418-95eb-53455b2c56dc" /> 
